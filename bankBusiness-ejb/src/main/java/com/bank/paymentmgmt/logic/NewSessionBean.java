@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.bank.paymentmgmt.facade;
+package com.bank.paymentmgmt.logic;
 
 import javax.ejb.Stateless;
 import javax.ejb.LocalBean;

@@ -5,4 +5,3 @@
 /home/cesi/NetBeansProjects/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/integration/PaymentDAO.java
 /home/cesi/NetBeansProjects/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/facade/BankingServiceEndpointInterface.java
 /home/cesi/NetBeansProjects/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/facade/BankingServiceBean.java
-/home/cesi/NetBeansProjects/bankFacade-ejb/src/main/java/com/bank/paymentmgmt/facade/NewSessionBean.java

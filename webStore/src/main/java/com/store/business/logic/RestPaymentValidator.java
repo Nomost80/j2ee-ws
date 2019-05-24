@@ -37,7 +37,6 @@ public class RestPaymentValidator implements PaymentValidator {
         Response resp = target.request().post(Entity.entity(paymentObject.toString(), MediaType.APPLICATION_JSON_TYPE));
         Boolean success = resp.getStatus() == 202;
         resp.close();
-        client.close();
         return success;
     }
 }
